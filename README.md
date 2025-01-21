@@ -62,7 +62,7 @@ power(left, right): Controls motor speed and direction using PWM.
 
 
 📂 Directory Structure
-
+```plaintext
 object-avoidance-robot/
 │
 ├── Practical 1 Implementing AFSM code.py   # Main codebase implementing the AFSM
@@ -76,6 +76,7 @@ object-avoidance-robot/
 │
 └── README.md                               # This file
 
+```
 
 🧪 Future Enhancements
 Integrate Camera: Use computer vision to improve obstacle detection and pathfinding.
